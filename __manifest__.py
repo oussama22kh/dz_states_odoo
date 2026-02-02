@@ -1,0 +1,17 @@
+{
+    'name': "Dz States",
+    'version': '1.0',
+    'depends': ['base'],
+    'author': "Oussama Khobzi",
+    'icon': '/dz_states/static/l10n.png',
+    'countries': ['dz'],
+    'category': 'Localization',
+    'price': 10.00,
+    'currency': 'USD',
+    'summary': 'States of Algeria',
+    'description': "This module is for automatically loading all 58 states of algeria",
+    'data': [
+        'data/res.country.state.csv',
+    ],
+
+}
