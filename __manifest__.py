@@ -3,6 +3,7 @@
     'version': '1.0',
     'depends': ['base'],
     'author': "Oussama Khobzi",
+    'license':"GPL-3",
     'icon': '/dz_states/static/l10n.png',
     'countries': ['dz'],
     'category': 'Localization',
