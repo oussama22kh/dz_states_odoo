@@ -6,7 +6,7 @@
     'icon': '/dz_states/static/l10n.png',
     'countries': ['dz'],
     'category': 'Localization',
-    'price': 10.00,
+    'price': 0.00,
     'currency': 'USD',
     'summary': 'States of Algeria',
     'description': "This module is for automatically loading all 58 states of algeria",
